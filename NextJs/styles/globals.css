@@ -124,6 +124,15 @@ a {
   font-size:20px;
   color:white
 }
+.btn-light{
+  transition: .2s;
+  transform: scale(1);
+}
+
+.btn-light:hover{
+  transition: .2s;
+  transform: scale(1.05);
+}
 
 
 @media screen and (max-width: 770px) {

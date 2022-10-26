@@ -1,5 +1,4 @@
 # youtube-video-converter
-.
 Python ve NextJs ile yazdığım youtube video dönüştürücüsü
 
 
